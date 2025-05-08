@@ -2,7 +2,7 @@
 title: Services - Gare Maritime
 description: Services - Gare Maritime
 published: true
-date: 2025-05-08T10:47:00.190Z
+date: 2025-05-08T11:25:27.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T10:47:00.190Z
@@ -10,36 +10,36 @@ dateCreated: 2025-05-08T10:47:00.190Z
 
 ##### Le terminal maritime principal \(Gare Maritime\), utilisé principalement par les passagers piétons et en autocar, offre ces services :
 
-  * ##### **Point d'information / Bureau d'informations**
+  *  **Point d'information / Bureau d'informations**
 
-  * ##### **Guichets des compagnies maritimes**
+  *  **Guichets des compagnies maritimes**
 
-  * ##### **Assistance aux voyageurs**
+  *  **Assistance aux voyageurs**
 
-  * ##### **Assurance**
+  *  **Assurance**
 
-  * ##### **Banque / Bureau de change**
+  *  **Banque / Bureau de change**
 
-  * ##### **GAB \(Distributeur automatique de billets\)**
+  *  **GAB \(Distributeur automatique de billets\)**
 
-  * ##### **Bornes de recharge pour téléphone**
+  *  **Bornes de recharge pour téléphone**
 
-  * ##### **Chariots à bagages**
+  *  **Chariots à bagages**
 
-  * ##### **Infirmerie / Unité de soin \(pour urgences médicales\)**
+  *  **Infirmerie / Unité de soin \(pour urgences médicales\)**
 
-  * ##### **Parking**
+  *  **Parking**
 
-  * ##### **Restauration**
+  *  **Restauration**
 
-  * ##### **Supérette**
+  *  **Supérette**
 
-  * ##### **Salle de prière**
+  *  **Salle de prière**
 
-  * ##### **Sanitaires**
+  *  **Sanitaires**
 
-  * ##### **Espaces de repos et de détente**
+  *  **Espaces de repos et de détente**
 
-  * ##### **Accès Wi-Fi Grand Public \(Gratuit\)**
+  *  **Accès Wi-Fi Grand Public \(Gratuit\)**
 
-  * ##### **Écrans d'affichage \(horaires, informations\)**
+  *  **Écrans d'affichage \(horaires, informations\)**
