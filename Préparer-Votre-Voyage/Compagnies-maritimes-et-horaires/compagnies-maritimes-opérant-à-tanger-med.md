@@ -2,10 +2,10 @@
 title: Compagnies Maritimes Opérant à Tanger Med
 description: Compagnies Maritimes Opérant à Tanger Med
 published: true
-date: 2025-05-08T11:02:48.643Z
+date: 2025-05-08T16:02:15.208Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:20.392Z
+dateCreated: 2025-05-08T16:02:13.247Z
 ---
 
 ##### Plusieurs compagnies maritimes desservent des lignes depuis le Port Tanger Med :

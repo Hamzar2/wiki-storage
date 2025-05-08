@@ -2,10 +2,10 @@
 title: Services - Gare Maritime
 description: Services - Gare Maritime
 published: true
-date: 2025-05-08T11:25:29.405Z
+date: 2025-05-08T16:01:36.826Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:00.190Z
+dateCreated: 2025-05-08T16:01:34.906Z
 ---
 
 ##### Le terminal maritime principal \(Gare Maritime\), utilisé principalement par les passagers piétons et en autocar, offre ces services :

@@ -2,10 +2,10 @@
 title: Limitations Bagages
 description: Limitations Bagages
 published: true
-date: 2025-05-08T11:23:51.834Z
+date: 2025-05-08T16:02:29.146Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:46.870Z
+dateCreated: 2025-05-08T16:02:27.288Z
 ---
 
 ##### Les limitations de bagages \(concernant le poids, la taille et le nombre de pièces\) varient considérablement en fonction de la compagnie maritime avec laquelle vous voyagez.

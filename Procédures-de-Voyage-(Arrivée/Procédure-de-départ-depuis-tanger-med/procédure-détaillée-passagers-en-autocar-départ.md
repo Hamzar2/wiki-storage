@@ -2,10 +2,10 @@
 title: Procédure Détaillée - Passagers en Autocar (Départ)
 description: Procédure Détaillée - Passagers en Autocar (Départ)
 published: true
-date: 2025-05-08T10:47:14.833Z
+date: 2025-05-08T16:02:06.744Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:45:54.255Z
+dateCreated: 2025-05-08T16:02:04.687Z
 ---
 
 ##### Accès par « Tanger Med Port Center »

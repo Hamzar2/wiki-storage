@@ -2,10 +2,10 @@
 title: Embarquement (Départ)
 description: Embarquement (Départ)
 published: true
-date: 2025-05-08T11:17:26.808Z
+date: 2025-05-08T16:02:03.588Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:45:58.561Z
+dateCreated: 2025-05-08T16:02:00.297Z
 ---
 
 ##### **L'embarquement au départ :**

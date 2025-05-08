@@ -2,10 +2,10 @@
 title: Procédure Détaillée - Passagers Piétons (Arrivée)
 description: Procédure Détaillée - Passagers Piétons (Arrivée)
 published: true
-date: 2025-05-08T11:10:19.221Z
+date: 2025-05-08T16:01:59.318Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:46:15.993Z
+dateCreated: 2025-05-08T16:01:57.554Z
 ---
 
 ##### Si vous arrivez à Tanger Med en tant que passager piéton :

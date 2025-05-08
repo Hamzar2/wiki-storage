@@ -2,10 +2,10 @@
 title: Voyager avec des Animaux de Compagnie
 description: Voyager avec des Animaux de Compagnie
 published: true
-date: 2025-05-08T11:24:30.736Z
+date: 2025-05-08T16:02:34.550Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:42.471Z
+dateCreated: 2025-05-08T16:02:32.680Z
 ---
 
 ##### Les animaux de compagnie sont autorisés sur certaines traversées, mais vous devez le vérifier spécifiquement auprès de la compagnie maritime choisie au préalable. Voici ce que vous devez savoir :

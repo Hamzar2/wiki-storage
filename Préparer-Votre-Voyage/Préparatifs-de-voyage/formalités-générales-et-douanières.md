@@ -2,10 +2,10 @@
 title: Formalités Générales et Douanières
 description: Formalités Générales et Douanières
 published: true
-date: 2025-05-08T11:23:24.585Z
+date: 2025-05-08T16:02:26.436Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:38.017Z
+dateCreated: 2025-05-08T16:02:24.526Z
 ---
 
 ##### En voyageant via Tanger Med, vous passerez par plusieurs formalités :

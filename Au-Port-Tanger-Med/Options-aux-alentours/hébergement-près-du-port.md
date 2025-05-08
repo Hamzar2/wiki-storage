@@ -2,10 +2,10 @@
 title: Hébergement près du Port
 description: Hébergement près du Port
 published: true
-date: 2025-05-08T11:08:17.695Z
+date: 2025-05-08T16:01:31.139Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:29.385Z
+dateCreated: 2025-05-08T16:01:29.249Z
 ---
 
 ##### Plusieurs hôtels sont situés à proximité du Port Tanger Med.

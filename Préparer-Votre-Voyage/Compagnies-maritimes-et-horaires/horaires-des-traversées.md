@@ -2,10 +2,10 @@
 title: Horaires des Traversées
 description: Horaires des Traversées
 published: true
-date: 2025-05-08T11:04:29.094Z
+date: 2025-05-08T16:02:17.990Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:24.974Z
+dateCreated: 2025-05-08T16:02:16.079Z
 ---
 
 ##### Les horaires des ferries changent fréquemment en fonction de la saison, du jour de la semaine et d'autres facteurs. Pour obtenir les informations d'horaires les plus précises et en temps réel :

@@ -2,10 +2,10 @@
 title: Estampillage des Passeports à Bord
 description: Estampillage des Passeports à Bord
 published: true
-date: 2025-05-08T11:09:36.701Z
+date: 2025-05-08T16:01:51.053Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:46:04.626Z
+dateCreated: 2025-05-08T16:01:49.090Z
 ---
 
 ##### L'estampillage du passeport pour l'entrée au Maroc est effectué de manière pratique **à bord du ferry pendant la traversée**.

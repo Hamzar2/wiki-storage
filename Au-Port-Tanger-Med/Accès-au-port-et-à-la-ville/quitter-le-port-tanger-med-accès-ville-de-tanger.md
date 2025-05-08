@@ -2,10 +2,10 @@
 title: Quitter le Port Tanger Med (Accès Ville de Tanger)
 description: Quitter le Port Tanger Med (Accès Ville de Tanger)
 published: true
-date: 2025-05-08T10:49:24.001Z
+date: 2025-05-08T16:01:25.441Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:45:36.130Z
+dateCreated: 2025-05-08T16:01:23.551Z
 ---
 
 * ##### Une fois arrivé\(e\) au Port Tanger Med, voici comment rejoindre la ville de Tanger :

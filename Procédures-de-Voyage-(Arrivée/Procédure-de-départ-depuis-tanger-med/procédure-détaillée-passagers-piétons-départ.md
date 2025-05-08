@@ -2,10 +2,10 @@
 title: Procédure Détaillée - Passagers Piétons (Départ)
 description: Procédure Détaillée - Passagers Piétons (Départ)
 published: true
-date: 2025-05-08T11:17:56.604Z
+date: 2025-05-08T16:02:12.319Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:45:45.306Z
+dateCreated: 2025-05-08T16:02:10.388Z
 ---
 
 ##### Accès par « Tanger Med Port Center » donnant directement accès à :

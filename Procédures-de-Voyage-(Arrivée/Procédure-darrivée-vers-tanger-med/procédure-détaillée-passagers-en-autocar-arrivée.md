@@ -2,10 +2,10 @@
 title: Procédure Détaillée - Passagers en Autocar (Arrivée)
 description: Procédure Détaillée - Passagers en Autocar (Arrivée)
 published: true
-date: 2025-05-08T11:16:05.098Z
+date: 2025-05-08T16:01:53.958Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:46:24.927Z
+dateCreated: 2025-05-08T16:01:51.941Z
 ---
 
 ##### Si vous arrivez à Tanger Med en autocar :

@@ -2,10 +2,10 @@
 title: Services - Zone Pré-embarquement
 description: Services - Zone Pré-embarquement
 published: true
-date: 2025-05-08T11:25:52.964Z
+date: 2025-05-08T16:01:45.446Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:47:06.470Z
+dateCreated: 2025-05-08T16:01:43.595Z
 ---
 
 ##### Dans les zones où les passagers attendent après les contrôles mais avant d'embarquer sur les ferries, vous pouvez trouver :
