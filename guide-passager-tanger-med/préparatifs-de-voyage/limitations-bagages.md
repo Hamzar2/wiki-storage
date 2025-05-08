@@ -2,7 +2,7 @@
 title: Limitations Bagages
 description: Limitations Bagages
 published: true
-date: 2025-05-08T11:23:49.784Z
+date: 2025-05-08T11:23:51.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T10:47:46.870Z
