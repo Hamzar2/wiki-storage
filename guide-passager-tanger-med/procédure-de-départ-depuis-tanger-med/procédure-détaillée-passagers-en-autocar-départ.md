@@ -2,37 +2,30 @@
 title: Procédure Détaillée - Passagers en Autocar (Départ)
 description: Procédure Détaillée - Passagers en Autocar (Départ)
 published: true
-date: 2025-05-08T10:45:54.255Z
+date: 2025-05-08T10:47:12.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T10:45:54.255Z
 ---
 
-##### Accès par « Tanger Med Port Center »,
+##### Accès par « Tanger Med Port Center »
 
   1. ##### **Gare Maritime :**
 
-     * ##### Arrivée de l'autocar.
+     *  Arrivée de l'autocar.
 
-     * ##### Débarquement des passagers avec leurs bagages.
+     *  Débarquement des passagers avec leurs bagages.
 
-     * ##### Le conducteur récupère et distribue les cartes d'embarquement \(obtenues aux guichets\).
+     *  Le conducteur récupère et distribue les cartes d'embarquement \(obtenues aux guichets\).
 
-     * ##### Vérification des cartes d'embarquement par l'autorité portuaire.
+     *  Vérification des cartes d'embarquement par l'autorité portuaire.
 
-     * ##### Contrôle et estampillage des passeports par la police.
+     *  Contrôle et estampillage des passeports par la police.
 
-     * ##### Contrôle des bagages par la douane.
+     *  Contrôle des bagages par la douane.
 
   2. ##### **Transfert au Quai :**
-
-     * ##### Via navette portuaire pour les passagers.
+     *  Via navette portuaire pour les passagers.
 
   3. ##### **Avant Embarquement :**
-
-     * ##### Dernier contrôle : Passeport et carte d’embarquement.
-
-
-
-
-#####
+     *  Dernier contrôle : Passeport et carte d’embarquement.
