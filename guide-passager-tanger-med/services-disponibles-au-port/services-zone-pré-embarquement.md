@@ -2,7 +2,7 @@
 title: Services - Zone Pré-embarquement
 description: Services - Zone Pré-embarquement
 published: true
-date: 2025-05-08T10:47:06.470Z
+date: 2025-05-08T11:25:51.089Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T10:47:06.470Z
@@ -10,20 +10,20 @@ dateCreated: 2025-05-08T10:47:06.470Z
 
 ##### Dans les zones où les passagers attendent après les contrôles mais avant d'embarquer sur les ferries, vous pouvez trouver :
 
-  * ##### **Aires de jeux pour enfants**
+  *  **Aires de jeux pour enfants**
 
-  * ##### **Assistance aux voyageurs**
+  *  **Assistance aux voyageurs**
 
-  * ##### **Bornes de recharge pour téléphone**
+  *  **Bornes de recharge pour téléphone**
 
-  * ##### **Restauration / Distributeurs automatiques**
+  *  **Restauration / Distributeurs automatiques**
 
-  * ##### **Fontaines d’eau**
+  *  **Fontaines d’eau**
 
-  * ##### **Salle de prière**
+  *  **Salle de prière**
 
-  * ##### **Sanitaires**
+  *  **Sanitaires**
 
-  * ##### **Espaces de repos et de détente**
+  *  **Espaces de repos et de détente**
 
-  * ##### **Accès Wi-Fi Grand Public \(Gratuit\)**
+  *  **Accès Wi-Fi Grand Public \(Gratuit\)**
