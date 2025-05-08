@@ -2,10 +2,10 @@
 title: Assistance Personnes à Mobilité Réduite (PMR)
 description: Assistance Personnes à Mobilité Réduite (PMR)
 published: true
-date: 2025-05-08T16:01:16.954Z
+date: 2025-05-08T16:30:38.648Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-08T10:46:42.435Z
+dateCreated: 2025-05-08T16:30:36.882Z
 ---
 
 ##### Le Port Tanger Med propose des services adaptés aux personnes à mobilité réduite :
