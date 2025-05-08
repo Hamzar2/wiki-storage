@@ -1,8 +1,8 @@
 ---
-title: Procédure Détaillée - Passagers en Autocar (Départ)
+title: Passagers en Autocar (Départ)
 description: Procédure Détaillée - Passagers en Autocar (Départ)
 published: true
-date: 2025-05-08T16:11:33.235Z
+date: 2025-05-08T16:36:40.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T16:02:04.687Z
