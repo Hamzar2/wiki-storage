@@ -2,7 +2,7 @@
 title: Procédure Détaillée - Passagers Piétons (Départ)
 description: Procédure Détaillée - Passagers Piétons (Départ)
 published: true
-date: 2025-05-08T10:45:45.307Z
+date: 2025-05-08T11:17:54.758Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-08T10:45:45.306Z
@@ -12,20 +12,20 @@ dateCreated: 2025-05-08T10:45:45.306Z
 
   1. ##### **Gare Maritime :**
 
-     * ##### Arrivée.
+     *  Arrivée.
 
-     * ##### Achat des billets et/ou enregistrement \(check-in\) aux guichets des compagnies maritimes.
+     *  Achat des billets et/ou enregistrement \(check-in\) aux guichets des compagnies maritimes.
 
-     * ##### Vérification des cartes d'embarquement par l'autorité portuaire.
+     *  Vérification des cartes d'embarquement par l'autorité portuaire.
 
-     * ##### Estampillage des passeports par la police.
+     *  Estampillage des passeports par la police.
 
-     * ##### Contrôle douanier des bagages.
+     *  Contrôle douanier des bagages.
 
   2. ##### **Transfert au Quai :**
 
-     * ##### Via navette portuaire.
+     *  Via navette portuaire.
 
   3. ##### **Avant Embarquement :**
 
-     * ##### Dernier contrôle : Passeport et carte d’embarquement.
+     *  Dernier contrôle : Passeport et carte d’embarquement.
